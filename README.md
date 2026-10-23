@@ -60,13 +60,23 @@ Explore my repositories for projects, scripts, implementation guides, and hands-
 
 ## 🐍 GitHub Contribution Snake
 
+
+## 🐍 GitHub Contribution Snake
+
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/buildwithvipin-cloud/buildwithvipin-cloud/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/buildwithvipin-cloud/buildwithvipin-cloud/output/github-snake.svg" />
-    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/buildwithvipin-cloud/buildwithvipin-cloud/output/github-snake.svg" />
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/buildwithvipin-cloud/buildwithvipin-cloud/output/github-snake-dark.svg" />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/buildwithvipin-cloud/buildwithvipin-cloud/output/github-snake.svg" />
+    <img
+      alt="GitHub Contribution Snake"
+      src="https://raw.githubusercontent.com/buildwithvipin-cloud/buildwithvipin-cloud/output/github-snake.svg" />
   </picture>
 </p>
+
 
 ## 🎯 Current Focus
 
