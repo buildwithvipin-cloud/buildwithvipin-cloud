@@ -58,7 +58,6 @@ I'm building and exploring practical solutions in the following areas:
 
 Explore my repositories for projects, scripts, implementation guides, and hands-on experiments.
 
-## 🐍 GitHub Contribution Snake
 
 ## 🐍 GitHub Contribution Snake
 
@@ -75,6 +74,7 @@ Explore my repositories for projects, scripts, implementation guides, and hands-
       src="https://raw.githubusercontent.com/buildwithvipin-cloud/buildwithvipin-cloud/output/github-snake.svg" />
   </picture>
 </p>
+
 
 
 ## 🎯 Current Focus
