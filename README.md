@@ -60,7 +60,6 @@ Explore my repositories for projects, scripts, implementation guides, and hands-
 
 ## 🐍 GitHub Contribution Snake
 
-
 ## 🐍 GitHub Contribution Snake
 
 <p align="center">
